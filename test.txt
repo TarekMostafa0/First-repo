@@ -1,3 +1,4 @@
 module new;
-
+input A;
+output B;
 endmodule
